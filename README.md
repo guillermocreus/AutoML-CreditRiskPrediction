@@ -4,17 +4,13 @@ This project implements an automated machine learning (AutoML) pipeline for **cr
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Pipeline Architecture](#pipeline-architecture)
-- [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Cloud Deployment](#cloud-deployment)
-- [Monitoring and A/B Testing](#monitoring-and-ab-testing)
-- [Project Structure](#project-structure)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
+- [AutoML-CreditRiskPrediction](#automl-creditriskprediction)
+  - [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Pipeline Architecture](#pipeline-architecture)
+  - [Technologies Used](#technologies-used)
+  - [Setup Instructions](#setup-instructions)
+    - [1. Clone the Repository](#1-clone-the-repository)
 
 ---
 
@@ -29,7 +25,7 @@ This project aims to predict whether a borrower will default on a loan using his
 - Model training with multiple classification algorithms (Logistic Regression, XGBoost, LightGBM)
 - Model deployment with A/B testing capabilities
 - Real-time monitoring for data drift and model performance
-- Cloud deployment on AWS or GCP
+- Cloud deployment on AWS
 
 ---
 
